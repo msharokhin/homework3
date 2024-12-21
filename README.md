@@ -10,21 +10,6 @@
 - Работа с вложенными структурами данных.
 - Легкость расширения и настройки.
 
-### Структура проекта:
-
-```css
-homework3/
-├── config/
-│   └── config.yaml         # Конфигурационный файл
-├── src/
-│   └── main.py             # Основной файл для запуска программы
-├── tests/
-│   └── test_converter.py   # Тестирование  
-└── README.md               # Документация
-```
-
----
-
 ## 2. Функции и настройки
 
 ### Основные функции
@@ -249,6 +234,7 @@ gameplay:
 
 ## 5. Результаты прогона тестов:
 
-![image](https://github.com/user-attachments/assets/f8d3e69b-4572-45d7-bab0-5d0a2a1ea3eb)
+![image](https://github.com/user-attachments/assets/ac9f135d-ed0d-49d6-83ad-df7b85cd0698)
+
 
 ---
